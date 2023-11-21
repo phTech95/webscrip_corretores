@@ -3,6 +3,8 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
+
+#Projeto web script, deixarei no github para quem quisser melhorar, é um projeto simples porem muito eficiente.
 DOMINIO = 'https://www.century21.com'
 
 
